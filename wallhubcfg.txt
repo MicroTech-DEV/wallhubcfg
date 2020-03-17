@@ -1,4 +1,6 @@
 {
     "s_m_b": false,
+    "s_s_b": false,
+    "s_r_b": true,
     "p_p_l": "www.google.com"
 }
